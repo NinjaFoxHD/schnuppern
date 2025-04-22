@@ -1,0 +1,66 @@
+.geschmack {
+    color: rgb(147, 219, 158);
+    font-family: 'Courier New', Courier, monospace;
+
+  }
+
+.Gerichte {
+    color: rgb(147, 219, 158);
+    font-family: 'Courier New', Courier, monospace;
+
+  }
+
+.satz {
+    color: rgb(147, 219, 158);
+    font-family: 'Courier New', Courier, monospace;
+
+  }
+
+.titelbild {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+}
+header {
+    background-image: url('image.png');
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    color: white;
+    display: flex;
+    flex-direction: column;  /* Stellt sicher, dass die Texte untereinander sind */
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0 20px;
+    
+}
+
+.RestaurantName {
+     
+        font-family: Arial, sans-serif; 
+        font-size: 100px;
+        color: rgb(4, 114, 46);
+        text-shadow:
+      -3px -3px 0 rgb(147, 219, 158),
+       3px -3px 0 rgb(147, 219, 158),
+      -3px  3px 0 rgb(147, 219, 158),
+       3px  3px 0 rgb(147, 219, 158);
+    
+}
+
+.outline-text-klein {
+    font-size: 25px;
+    color: rgb(4, 114, 46);
+    text-shadow: 
+      1px 1px 0px rgb(147, 219, 158), 
+     -1px -1px 0px rgb(147, 219, 158),
+      1px -1px 0px rgb(147, 219, 158),
+     -1px 1px 0px rgb(147, 219, 158);
+  }
+
+.backgroundcolor {
+    background-color: rgb(4, 114, 46);
+  }
+
+
